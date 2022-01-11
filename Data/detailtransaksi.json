@@ -1,0 +1,65 @@
+[
+    {
+        "id_detail": 1,
+        "id_transaksi": 1,
+        "id_gudang": "WR001",
+        "nama_gudang": "Gudang A",
+        "id_barang": "PI001",
+        "nama_barang": "Elpiji Melon",
+        "jumlah_barang": 5
+    },
+    {
+        "id_detail": 2,
+        "id_transaksi": 2,
+        "id_gudang": "WR002",
+        "nama_gudang": "Gudang B",
+        "id_barang": "PI003",
+        "nama_barang": "Ease Gas",
+        "jumlah_barang": -4
+    },
+    {
+        "id_detail": 3,
+        "id_transaksi": 2,
+        "id_gudang": "WR001",
+        "nama_gudang": "Gudang A",
+        "id_barang": "PI003",
+        "nama_barang": "Ease Gas",
+        "jumlah_barang": 4
+    },
+    {
+        "id_detail": 4,
+        "id_transaksi": 3,
+        "id_gudang": "WR001",
+        "nama_gudang": "Gudang A",
+        "id_barang": "PI001",
+        "nama_barang": "Elpiji Melon",
+        "jumlah_barang": 5
+    },
+    {
+        "id_detail": 5,
+        "id_transaksi": 4,
+        "id_gudang": "WR001",
+        "nama_gudang": "Gudang A",
+        "id_barang": "PI002",
+        "nama_barang": "Elpiji Biru",
+        "jumlah_barang": -3
+    },
+    {
+        "id_detail": 6,
+        "id_transaksi": 4,
+        "id_gudang": "WR002",
+        "nama_gudang": "Gudang B",
+        "id_barang": "PI002",
+        "nama_barang": "Elpiji Biru",
+        "jumlah_barang": 3
+    },
+    {
+        "id_detail": 7,
+        "id_transaksi": 5,
+        "id_gudang": "WR001",
+        "nama_gudang": "Gudang A",
+        "id_barang": "PI001",
+        "nama_barang": "Elpiji Melon",
+        "jumlah_barang": 3
+    }
+]

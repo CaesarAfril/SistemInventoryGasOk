@@ -1,0 +1,37 @@
+[
+    {
+        "id_transaksi": 1,
+        "id_gudang": "WR001",
+        "asal_barang": "Supplier",
+        "tujuan_barang": "WR001",
+        "tanggal": "2020-06-01"
+    },
+    {
+        "id_transaksi": 2,
+        "id_gudang": "WR002",
+        "asal_barang": "WR002",
+        "tujuan_barang": "WR001",
+        "tanggal": "2020-06-01"
+    },
+    {
+        "id_transaksi": 3,
+        "id_gudang": "WR001",
+        "asal_barang": "Produsen",
+        "tujuan_barang": "WR001",
+        "tanggal": "2020-07-20"
+    },
+    {
+        "id_transaksi": 4,
+        "id_gudang": "WR001",
+        "asal_barang": "WR001",
+        "tujuan_barang": "WR002",
+        "tanggal": "2020-07-20"
+    },
+    {
+        "id_transaksi": 5,
+        "id_gudang": "WR001",
+        "asal_barang": "Produsen",
+        "tujuan_barang": "WR001",
+        "tanggal": "2020-07-27"
+    }
+]

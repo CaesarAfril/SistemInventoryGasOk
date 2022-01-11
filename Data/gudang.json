@@ -1,0 +1,26 @@
+[
+    {
+        "id_gudang": "WR001",
+        "nama_gudang": "Gudang A",
+        "tanggal": "2020-07-27",
+        "stok": 26,
+        "kapasitas": 100,
+        "pass": "abc"
+    },
+    {
+        "id_gudang": "WR002",
+        "nama_gudang": "Gudang B",
+        "tanggal": "2020-07-20",
+        "stok": 38,
+        "kapasitas": 100,
+        "pass": "bce"
+    },
+    {
+        "id_gudang": "WR003",
+        "nama_gudang": "Gudang C",
+        "tanggal": "2020-06-01",
+        "stok": 20,
+        "kapasitas": 100,
+        "pass": "ecd"
+    }
+]
